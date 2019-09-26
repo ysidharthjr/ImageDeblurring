@@ -1,2 +1,4 @@
-# ImageDeblurring
-Image Deblurring using Gaussian Filter, DCT and other mathematical tools.
+# Image Deblurring
+_**By Yashashwi Sidharth**_
+
+![Screenshot](Capture.JPG)
